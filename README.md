@@ -27,9 +27,9 @@
 
 ## 📊 GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Braulin07&layout=compact&theme=tokyonight)
+![Top Langs](https://ghstats.vercel.app/api/top-langs/?username=Braulin07&layout=compact&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Braulin07&show_icons=true&theme=tokyonight)
+![GitHub stats](https://ghstats.vercel.app/api?username=Braulin07&show_icons=true&theme=tokyonight)
 
 ---
 
