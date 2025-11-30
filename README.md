@@ -30,13 +30,9 @@
 
 ![Top Langs](https://ghstats.vercel.app/api/top-langs/?username=Braulin07&layout=compact&theme=tokyonight)
 
-![GitHub stats](https://ghstats.vercel.app/api?username=Braulin07&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Braulin07&theme=tokyonight)
 
-![Top Contributed Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=Braulin07&layout=compact&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Braulin07&layout=compact&theme=tokyonight)](https://github.com/Braulin07?tab=repositories)
+![GitHub stats](https://ghstats.vercel.app/api?username=Braulin07&show_icons=true&theme=tokyonight)
 
 
 ---
